@@ -1,0 +1,13 @@
+# Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated data 
+faiss_index/
+
+# Runtime chat data (created when the Streamlit app runs)
+sessions/
